@@ -38,3 +38,4 @@ elif choice == 4:
 else:
 	print("Invalid input")
 	print("Valid inputs are 1/2/3/4)
+	print("option are add/modify/delete")
