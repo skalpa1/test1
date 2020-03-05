@@ -1,0 +1,2 @@
+This is a test from original directory
+This is a test from original directorysecond time
